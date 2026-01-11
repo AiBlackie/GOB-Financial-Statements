@@ -1,18 +1,5 @@
-# Barbados Government Financial Statements Dashboard
-# Version: 2.0
-# Last Updated: October 2023
-
-# Core Dashboard Dependencies
-streamlit==1.28.0      # Interactive web application framework
-pandas==2.0.3         # Data manipulation and analysis
-plotly==5.17.0        # Interactive data visualization
-numpy==1.24.3         # Numerical computing support
-
-# Markdown Processing (Pinned for compatibility)
-markdown-it-py==3.0.0  # Markdown parser for Streamlit
-
-# Dependencies for Development (Optional)
-# jupyter==1.0.0        # Jupyter notebook support
-# black==23.9.1         # Code formatting
-# pylint==2.17.5        # Code linting
-# pytest==7.4.2         # Testing framework
+# Barbados Government Financial Dashboard Dependencies
+streamlit==1.24.0
+pandas==1.5.0
+plotly==5.0.0
+numpy==1.21.0
